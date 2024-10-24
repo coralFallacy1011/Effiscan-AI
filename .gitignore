@@ -1,1 +1,4 @@
 venv/
+venv1/
+env/
+yolov3.weights
