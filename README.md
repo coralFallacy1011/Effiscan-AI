@@ -13,3 +13,13 @@ Ultralytics YOLOv8 Deep learning model for object detection — specifically det
 math library for calculating Euclidean distances between bounding boxes.
 
 time library For tracking working durations and session times.
+
+## Visuals
+
+Sample 1: 
+
+![image](https://github.com/user-attachments/assets/2a715ae5-59ea-4764-b7db-e45b1cb83e58)
+
+Sample 2:
+
+![image](https://github.com/user-attachments/assets/fb9a2512-17a8-44ab-969d-94c558b9be2c)
